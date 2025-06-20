@@ -36,17 +36,17 @@ authentication, database, email services, and api gateway for building modern we
 + [github cli](https://cli.github.com/)
 + registered domain in Route 53 for SES integration
 + prepare aws environment by running `cdk bootstrap` with the appropriate aws account and region:
-   
+
   ```bash
-   cdk bootstrap aws://<account-id>/<region>
+  cdk bootstrap aws://<account-id>/<region>
   ```
 
-  + replace `<account-id>` with your aws account id and `<region>` with your desired aws region (e.g., `us-west-2`).
-  + this command sets up the necessary resources for deploying cdk applications, such as an S3 bucket for storing
-    assets and a CloudFormation execution role
-  + for more information, see the aws cdk documentation:
-      + https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping.html
-      + https://docs.aws.amazon.com/cdk/v2/guide/ref-cli-cmd-bootstrap.html
+    + replace `<account-id>` with your aws account id and `<region>` with your desired aws region (e.g., `us-west-2`).
+    + this command sets up the necessary resources for deploying cdk applications, such as an S3 bucket for storing
+      assets and a CloudFormation execution role
+    + for more information, see the aws cdk documentation:
+        + https://docs.aws.amazon.com/cdk/v2/guide/bootstrapping.html
+        + https://docs.aws.amazon.com/cdk/v2/guide/ref-cli-cmd-bootstrap.html
 
 ## deployment
 
