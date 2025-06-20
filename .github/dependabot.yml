@@ -10,6 +10,10 @@ updates:
     schedule:
       interval: "weekly"
   - package-ecosystem: "maven"
+    directory: "/infra"
+    schedule:
+      interval: "weekly"
+  - package-ecosystem: "maven"
     directory: "/fn"
     schedule:
       interval: "weekly"
