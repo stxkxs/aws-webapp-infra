@@ -21,7 +21,7 @@
         <aws.java.sdk.version>2.31.73</aws.java.sdk.version>
         <fn.layer.version>1.0-SNAPSHOT</fn.layer.version>
         <lombok.version>1.18.38</lombok.version>
-        <junit5.version>5.10.1</junit5.version>
+        <junit5.version>5.13.2</junit5.version>
     </properties>
 
     <dependencyManagement>
