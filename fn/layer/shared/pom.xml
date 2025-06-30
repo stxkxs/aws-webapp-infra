@@ -23,7 +23,7 @@
         <guava.version>33.4.8-jre</guava.version>
         <jackson.version>2.19.1</jackson.version>
         <lombok.version>1.18.38</lombok.version>
-        <junit5.version>5.10.1</junit5.version>
+        <junit5.version>5.13.2</junit5.version>
     </properties>
 
     <dependencyManagement>
