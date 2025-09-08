@@ -21,7 +21,7 @@
         <maven.compiler.plugin.version>3.14.0</maven.compiler.plugin.version>
         <aws.java.sdk.version>2.33.0</aws.java.sdk.version>
         <fn.layer.version>1.0-SNAPSHOT</fn.layer.version>
-        <lombok.version>1.18.38</lombok.version>
+        <lombok.version>1.18.40</lombok.version>
         <junit5.version>5.13.4</junit5.version>
     </properties>
 
