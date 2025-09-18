@@ -20,7 +20,7 @@
         <aws.lambda.sdk.version>1.12.772</aws.lambda.sdk.version>
         <log4j2.version>2.25.1</log4j2.version>
         <commons.codec.version>1.19.0</commons.codec.version>
-        <guava.version>33.4.8-jre</guava.version>
+        <guava.version>33.5.0-jre</guava.version>
         <jackson.version>2.20.0</jackson.version>
         <lombok.version>1.18.40</lombok.version>
         <junit5.version>5.13.4</junit5.version>
