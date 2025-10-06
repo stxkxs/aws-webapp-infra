@@ -20,7 +20,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cdk.common.version>1.0.0</cdk.common.version>
         <maven.compiler.version>3.14.1</maven.compiler.version>
-        <maven.exec.version>3.5.1</maven.exec.version>
+        <maven.exec.version>3.6.1</maven.exec.version>
     </properties>
 
     <dependencies>
