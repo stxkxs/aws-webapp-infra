@@ -27,7 +27,7 @@
         <aws.sdk.version>2.35.5</aws.sdk.version>
         <aws.lambda.java.core>1.4.0</aws.lambda.java.core>
         <aws.lambda.java.events>3.16.1</aws.lambda.java.events>
-        <jackson.version>2.20.0</jackson.version>
+        <jackson.version>2.20.1</jackson.version>
         <lombok.version>1.18.42</lombok.version>
         <slf4j.version>2.1.0-alpha1</slf4j.version>
         <junit5.version>6.0.0</junit5.version>
